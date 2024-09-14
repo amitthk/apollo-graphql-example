@@ -1,1 +1,6 @@
 * Apollo graphql with posgresql backend example
+
+#+BEGIN_SRC 
+npm install
+npm start
+#+END_SRC
